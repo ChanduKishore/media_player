@@ -31,7 +31,7 @@ header('location:login.php');
   <h2 class="brand capitalize white   ml-3">amzflip</h2>
 <div class=" flex">
 <p class="user_logo" user-name="<?php echo $_SESSION['user']?>" ><?php echo $_SESSION['user'][0] ?></p>
-<form class="logout" method="post" action="amzflip_video_tuts.php"><input class=" fs-1-2 btn white" type="submit" value="Logout" name="logout" ></form>
+<form class="logout" method="post" action="amzflip_video_tuts.php"><input class=" fs-1-2 btn white" type="submit" value="Exit" name="logout" ></form>
 </div>
 	
 </header>
