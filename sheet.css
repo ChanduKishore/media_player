@@ -105,11 +105,6 @@ input[type=submit],button{
       select{padding: 10px ;}
 
 
-      aside button:hover{
-        background: ghostwhite;
-        color: black;
-        font-weight: bold;
-        box-shadow: 2px 2px 1px ;}
 
         aside .active{
           background:black ;
