@@ -1,0 +1,75 @@
+ 
+{
+            "module1":[
+
+              {
+                "url":"https://www.youtube.com/embed/WgU7P6o-GkM",
+                "name":"SPIDER-MAN: NO WAY HOME - Official Teaser Trailer"
+                      },
+
+            { 
+              "url":"https://www.youtube.com/embed/hqDDUoF3Gh8",
+              "name":"Marvel Studios’ Shang-Chi and the Legend of the Ten Rings"
+              },
+
+            {
+              "url":"https://www.youtube.com/embed/-FmWuCgJmxo",
+              "name":"VENOM: LET THERE BE CARNAGE - Official Trailer 2"
+              },
+
+              {
+              "url":"https://www.youtube.com/embed/x_me3xsvDgk",
+              "name":"Marvel Studios’ Eternals (2021)| Official Final Trailer"
+                },
+
+              {
+              "url":"https://www.youtube.com/embed/al6eMVSnHhQ",
+              "name":"Marvel's WHAT IF…? (2021) EPISODE 4 PROMO TRAILER | Disney+"
+                },
+              {
+              "url":"https://www.youtube.com/embed/lcHrcb2QD_g",
+              "name":"Marvel's What If (2021) | Episode 4 Promo | Disney+ Concept"
+                }
+                
+
+                    ],
+
+            "module2":[
+
+            
+
+               { 
+                "url":"https://www.youtube.com/embed/t6n-BVCelnU",
+                  "name":"Zaalima Coca Cola Song | Nora Fatehi | Tanishk Bagchi | Shreya Ghoshal | Vayu"
+                      },
+
+            { 
+              "url":"https://www.youtube.com/embed/BBAyRBTfsOU",
+              "name":"Vaaste Song: Dhvani Bhanushali, Tanishk Bagchi | Nikhil D | Bhushan Kumar | Radhika Rao, Vinay Sapru"
+              }
+              
+              
+
+            ],
+
+
+
+            "module3":[
+
+            {
+              "url":"https://www.youtube.com/embed/h9Am4CYaLng",
+              "name":"#SarangaDariya | Love story Songs | Naga Chaitanya | Sai Pallavi | Sekhar Kammula | Pawan Ch"
+             },
+
+              {
+              "url":"https://www.youtube.com/embed/65P3H1idDQE",
+              "name":"#Acharya - LaaheLaahe Lyrical | Megastar Chiranjeevi, Ram Charan​, Kajal, PoojaHegde | KoratalaSiva"
+              }
+
+             
+
+            ]
+
+}
+
+
