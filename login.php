@@ -30,7 +30,7 @@ if(isset($_POST['submit'])){
 
  
 <form action="login.php" method="post" novalidate="">
-	<h2 class="center capitalize mb-2">amzflip</h2>
+	<h2 class="center capitalize mb-2">Company Name</h2>
 	<div>
 	<label for="username">Enter your Username</label>
 	<input class="<?php if($errors['username'] || $errors['login_error']) echo 'invalid' ?>" type="text" name="username" id="username" value="Stranger">
